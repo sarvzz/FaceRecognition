@@ -1,2 +1,2 @@
 # FaceRecognition
-Face Recognition Model written in Python
+Face Recognition Model written using Tensorflow in Python. 
